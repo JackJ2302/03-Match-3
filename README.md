@@ -65,7 +65,7 @@ Based on a Match-3 project created by [Mister Taft Creates](https://github.com/m
 ## Future Development
 
 ## Created by
-```
+Jack Joseph
 
 The grading criteria will be as follows:
 
